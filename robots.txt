@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-4v8024.indocuan-pro.site/sitemap.xml
